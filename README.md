@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhananjayrana
-- 👀 I’m interested in DATA SCIENCE/RADGRAD
+- 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning AI AND MACHINE LEARNING
-- 💞️ I’m looking to collaborate on AI IN MEDICAL IMAGING
+- 💞️ I’m looking to collaborate on data science projects on health.
 - 📫 How to reach me dhananjayrana.gov@gmail.com
 
 <!---
